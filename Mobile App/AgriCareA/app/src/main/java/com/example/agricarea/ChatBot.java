@@ -38,7 +38,7 @@ public class ChatBot {
 
         Request request = new Request.Builder()
                 .url("https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3-8B-Instruct")
-                .header("Authorization", "Bearer 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")
+                .header("Authorization", "Bearer hf_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
                 .post(RequestBody.create(
                         MediaType.parse("application/json"),
                         json
