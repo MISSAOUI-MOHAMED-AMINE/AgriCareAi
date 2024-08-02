@@ -1,0 +1,76 @@
+{
+  "diseases": [
+    {
+      "name": "Bacterial Spot",
+      "link": "bact",
+      "definition": "Bacterial Spot is a plant disease caused by the Xanthomonas species of bacteria.",
+      "history": "First identified in the early 20th century, Bacterial Spot affects a variety of plants, including tomatoes and peppers.",
+      "symptoms": "Symptoms include small, water-soaked spots on leaves, which may turn dark and cause leaf drop.",
+      "causes": "The disease is caused by the bacteria Xanthomonas campestris pv. vesicatoria, which spread through water, infected seeds, and contaminated tools.",
+      "solutions": "Management includes using disease-free seeds, applying copper-based bactericides, and practicing crop rotation."
+    },
+    {
+      "name": "Early Blight",
+      "link": "early",
+      "definition": "Early Blight is a common fungal disease affecting tomatoes and potatoes, caused by Alternaria solani.",
+      "history": "Early Blight was first documented in the 19th century and continues to be a major concern for solanaceous crops.",
+      "symptoms": "Symptoms include dark, concentric rings on older leaves, which can lead to significant defoliation.",
+      "causes": "The fungus thrives in warm, wet conditions and spreads through splashing water and infected plant debris.",
+      "solutions": "Solutions include removing infected plant debris, using resistant varieties, and applying fungicides."
+    },
+    {
+      "name": "Healthy",
+      "link": "healthy",
+      "definition": "A state in which plants exhibit optimal growth and show no signs of disease or pest infestation.",
+      "history": "Healthy plants have been a goal of agriculture since the beginning of farming.",
+      "symptoms": "Healthy plants display vigorous growth, green leaves, and high productivity.",
+      "causes": "Healthy plants result from proper care, adequate nutrition, and favorable growing conditions.",
+      "solutions": "Maintain plant health through regular monitoring, proper watering, balanced fertilization, and pest management."
+    },
+    {
+      "name": "Late Blight",
+      "link": "late",
+      "definition": "Late Blight is a destructive disease of potatoes and tomatoes caused by the oomycete Phytophthora infestans.",
+      "history": "Late Blight was responsible for the Irish Potato Famine in the mid-19th century.",
+      "symptoms": "Symptoms include water-soaked lesions on leaves and stems, which rapidly turn brown and black.",
+      "causes": "The disease is caused by Phytophthora infestans, which spreads through cool, wet conditions.",
+      "solutions": "Control measures include using resistant varieties, applying fungicides, and removing infected plant material."
+    },
+    {
+      "name": "Leaf Mold",
+      "link": "mold",
+      "definition": "Leaf Mold is a fungal disease primarily affecting tomatoes, caused by the fungus Passalora fulva.",
+      "history": "First identified in the early 20th century, Leaf Mold has been a significant issue in greenhouse tomato production.",
+      "symptoms": "Symptoms include yellow spots on upper leaf surfaces and grayish-brown mold on the undersides.",
+      "causes": "The fungus thrives in high humidity and poor air circulation, spreading through spores.",
+      "solutions": "Solutions include improving air circulation, reducing humidity, and applying fungicides."
+    },
+    {
+      "name": "Septoria",
+      "link": "septoria",
+      "definition": "Septoria Leaf Spot is a fungal disease affecting tomatoes, caused by Septoria lycopersici.",
+      "history": "Septoria Leaf Spot has been recognized as a common tomato disease since the late 19th century.",
+      "symptoms": "Symptoms include small, circular spots with dark borders on leaves, leading to premature leaf drop.",
+      "causes": "The fungus spreads through water splashes and contaminated plant debris.",
+      "solutions": "Management includes removing infected leaves, using resistant varieties, and applying fungicides."
+    },
+    {
+      "name": "Spider Mites",
+      "link": "spider",
+      "definition": "Spider Mites are tiny arthropods that infest plants, causing significant damage by feeding on plant cells.",
+      "history": "Spider Mites have been a known pest in agriculture for centuries, affecting a wide range of plants.",
+      "symptoms": "Symptoms include stippling, yellowing, and webbing on leaves, which can lead to plant stress and reduced yield.",
+      "causes": "Infestations are caused by various species of mites, thriving in hot, dry conditions.",
+      "solutions": "Control measures include using miticides, introducing natural predators, and maintaining adequate humidity."
+    },
+    {
+      "name": "Yellow Leaf Curl Virus",
+      "link": "curl",
+      "definition": "Yellow Leaf Curl Virus is a viral disease affecting tomatoes, transmitted by the whitefly Bemisia tabaci.",
+      "history": "First identified in the mid-20th century, the virus has become widespread, causing significant crop losses.",
+      "symptoms": "Symptoms include yellowing and curling of leaves, stunted growth, and reduced fruit set.",
+      "causes": "The virus is transmitted by the whitefly vector, which spreads the virus from infected to healthy plants.",
+      "solutions": "Management includes controlling whitefly populations, using resistant varieties, and implementing good sanitation practices."
+    }
+  ]
+}

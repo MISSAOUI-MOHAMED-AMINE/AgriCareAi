@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".Infos">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Informations sur l'application"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:paddingBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/tvInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cette application propose les fonctionnalités suivantes :"
+        android:textSize="18sp"
+        android:paddingBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/tvFeature1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. Inscription et connexion sécurisée"
+        android:textSize="16sp"
+        android:paddingBottom="4dp"/>
+
+    <TextView
+        android:id="@+id/tvFeature2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2. Détection et classification des maladies agriculturelles avec l'IA"
+        android:textSize="16sp"
+        android:paddingBottom="4dp"/>
+
+    <TextView
+        android:id="@+id/tvFeature3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3. Communication avec un ChatBot trés puissant"
+        android:textSize="16sp"
+        android:paddingBottom="4dp"/>
+
+    <TextView
+        android:id="@+id/tvFeature4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4. Consultation d'une encyclopédie sur les maladies"
+        android:textSize="16sp"
+        android:paddingBottom="4dp"/>
+
+    <TextView
+        android:id="@+id/tvFeature5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5. Visualision de météo du jour"
+        android:textSize="16sp"
+        android:paddingBottom="4dp"/>
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Retour"
+        android:layout_gravity="center"
+        android:paddingTop="16dp"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="320dp">
+    <TextView
+        android:id="@+id/tvF6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="All Copyrights are Reserved 2024"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:text="Developed by MISSAOUI MOHAMED AMINE"
+        android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>

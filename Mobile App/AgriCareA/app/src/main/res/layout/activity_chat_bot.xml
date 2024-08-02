@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/green"
+    android:padding="16dp">
+    <TextView
+        android:id="@+id/txtview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="39dp"
+        android:text="ChatBot"/>
+    <LinearLayout
+        android:id="@+id/lay"
+        android:layout_below="@+id/txtview"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/user"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/user"/>
+
+
+    <EditText
+        android:id="@+id/user_input"
+        android:layout_below="@+id/user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Type your message"
+        android:padding="12dp"
+        android:layout_marginBottom="20dp"
+        android:background="@android:drawable/editbox_background_normal" />
+
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_below="@+id/lay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/speek"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="12dp"
+            android:src="@drawable/speak"/>
+        <Button
+            android:id="@+id/send_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Send"
+            android:background="#3F51B5"
+            android:layout_gravity="center"
+            android:layout_alignParentEnd="true" />
+    <TextView
+        android:id="@+id/txtreq"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_below="@id/send_button"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:text="Please click on the button Send"/>
+        <ImageView
+            android:id="@+id/robot"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:src="@drawable/chat"/>
+    <ScrollView
+        android:id="@+id/scroll_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/txtreq"
+        android:layout_marginTop="1dp">
+
+        <TextView
+            android:id="@+id/chatbot_response"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chatbot Response"
+            android:textSize="16sp"
+            android:padding="8dp"
+            android:background="#f0f0f0"
+            android:elevation="2dp" />
+    </ScrollView>
+    </LinearLayout>
+</RelativeLayout>
