@@ -89,5 +89,7 @@ AgriCareAI prioritizes user security with robust authentication mechanisms:
 ---
 
 AgriCareAI bridges advanced technologies with practical farming needs, making it a valuable tool for modern agriculture. Contributions and suggestions are welcome!
+
+
 https://github.com/user-attachments/assets/55b272ad-2816-4935-a019-c03edcb44843
 
