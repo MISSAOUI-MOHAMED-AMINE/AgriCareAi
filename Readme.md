@@ -3,14 +3,15 @@
 **AgriCareAI** is a mobile application developed in **Java** using **Android Studio**, designed to assist farmers in improving their crops and agricultural practices. The app integrates several advanced services that combine weather forecasting, plant disease detection, interactive chatbot functionality, and offline resources. Here's a comprehensive overview of the project's key features:
 
 
-![image](https://github.com/user-attachments/assets/46c98273-5751-4540-8beb-734e037ee3d7)
-
 ---
 
 ## Features and Implementation
 
 ### 1. **Weather Dashboard Forecasting**
 AgriCareAI provides a real-time weather dashboard tailored for farmers in Tunisia. 
+![pro_img (1)](https://github.com/user-attachments/assets/caaf2a3a-97a6-4393-8dac-b64727ac4266)
+
+
 
 - **Data Extraction**: 
   - Weather data for various Tunisian cities was scraped from **AccuWeather** using **Selenium**.
