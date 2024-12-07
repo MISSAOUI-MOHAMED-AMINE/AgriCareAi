@@ -2,8 +2,8 @@
 
 **AgriCareAI** is a mobile application developed in **Java** using **Android Studio**, designed to assist farmers in improving their crops and agricultural practices. The app integrates several advanced services that combine weather forecasting, plant disease detection, interactive chatbot functionality, and offline resources. Here's a comprehensive overview of the project's key features:
 
-<img src="https://github.com/user-attachments/assets/1122626d-5871-4435-96e6-dcde1b308cee" alt="profile_img" width="200"/>
 
+![image](https://github.com/user-attachments/assets/46c98273-5751-4540-8beb-734e037ee3d7)
 
 ---
 
