@@ -28,6 +28,8 @@ AgriCareAI provides a real-time weather dashboard tailored for farmers in Tunisi
 ---
 
 ### 2. **Plant Leaf Disease Detection**
+![image](https://github.com/user-attachments/assets/2738c698-19fd-47f5-bbc7-995d2bfa55ed)
+
 This feature enables farmers to identify and diagnose plant leaf diseases through image analysis.
 
 - **Model Development**:
