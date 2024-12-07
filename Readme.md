@@ -42,6 +42,7 @@ This feature enables farmers to identify and diagnose plant leaf diseases throug
 
 ### 3. **Agricultural Chatbot**
 AgriCareAI includes a powerful chatbot to answer farmers' questions and provide tailored agricultural advice.
+![image](https://github.com/user-attachments/assets/aa2b4e34-dab5-4ab6-99d1-bf4b18729aa6)
 
 - **Model Selection**:
   - **MetaLLaMA 3 8B Instruct**, a large language model (LLM) from **Hugging Face**, was chosen for its performance and contextual accuracy.
