@@ -88,7 +88,7 @@ AgriCareAI prioritizes user security with robust authentication mechanisms:
 ## How to Run the App
 1. Clone the repository:  
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/MISSAOUI-MOHAMED-AMINE/AgriCareAi.git
    ```
 2. Open the project in **Android Studio**.
 3. Install the required dependencies and SDKs.
